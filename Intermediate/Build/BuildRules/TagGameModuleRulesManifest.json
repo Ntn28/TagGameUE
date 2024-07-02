@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Users\\ntnca\\Documents\\Unreal Projects\\TagGame\\Source\\TagGame\\TagGame.Build.cs",
+		"D:\\Users\\ntnca\\Documents\\Unreal Projects\\TagGame\\Source\\TagGame.Target.cs",
+		"D:\\Users\\ntnca\\Documents\\Unreal Projects\\TagGame\\Source\\TagGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.0"
+}

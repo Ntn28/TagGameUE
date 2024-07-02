@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\source\\taggame\\taggamegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\source\\taggame\\taggamegamemode.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\targetpoint.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\targetpoint.generated.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\source\\taggame\\ball.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\ball.generated.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\source\\taggame\\dividingline.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\dividingline.generated.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\taggamegamemode.generated.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\source\\taggame\\taggamecharacter.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\taggamecharacter.generated.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\engineutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

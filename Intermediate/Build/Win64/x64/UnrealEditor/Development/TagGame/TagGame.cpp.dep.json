@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\source\\taggame\\taggame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h",
+            "d:\\users\\ntnca\\documents\\unreal projects\\taggame\\source\\taggame\\taggame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
